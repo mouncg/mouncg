@@ -6,4 +6,4 @@
 - 📫 How to reach me: EppyPrime#1461 on discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have an addiction on private repos
-![Eppy's github stats](https://github-readme-stats.vercel.app/api?username=dominikaaaa&hide=["stars"])
+![Eppy's github stats](https://github-readme-stats.vercel.app/api?username=mouncg&hide=[])
