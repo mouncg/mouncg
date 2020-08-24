@@ -16,4 +16,7 @@
 
 - ⚡ Fun fact: I have an addiction on private repos
 
+- 💬 Contact me: EppyPrime#1461
+
+![My Discord status](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/611108193275478018)
 ![Eppy's github stats](https://github-readme-stats.vercel.app/api?username=mouncg&hide=[])
