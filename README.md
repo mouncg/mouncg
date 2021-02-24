@@ -12,8 +12,6 @@
 
 - 😄 Pronouns: He/Him
 
-- 🌈 Sexuality: Homosexual
-
 - ⚡ Fun fact: I have an addiction on private repos
 
 - 💬 Contact me: EppyPrime#1461
